@@ -3,6 +3,7 @@ Enhanced vanilla version of Revive but with splendid extra features.
 
 Features include (not present in vanilla revive):  
 - AI revive (experimental!)  
+- Blood effects
 - Dragging  
 - Zeus modules (requires Achilles)  
 
